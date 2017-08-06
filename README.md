@@ -4,7 +4,7 @@ A dark material theme for PhpMyAdmin
 
 ## Setup
 
-Go to theme phpmyadmin->themes and clone the repo
+Go to folder phpmyadmin->themes and clone the repo
 ```bash
 git clone https://github.com/naimjeem/PHPMyAdmin-DarkTheme.git
 ```
